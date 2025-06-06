@@ -285,9 +285,12 @@
     background: linear-gradient(-45deg,#ee7752,#e73c7e,#23a6d5,#23d5ab);
   background-size: 240% 240%;
   animation: gradient-animation 15s ease infinite;
+          transform: scale(0.5);
 }
 .main-page {
   display: block;
+margin-left: 1%;
+  margin-top: 1%;
 }
 
       .section {
